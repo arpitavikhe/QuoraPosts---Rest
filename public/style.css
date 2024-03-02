@@ -1,0 +1,21 @@
+*{
+    text-decoration: none;
+}
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+   padding-left: 10px;
+   padding-top: 0px;
+}
+.user{
+    font-style: italic;
+}
+
+.link{
+    color: brown;
+
+}
+
